@@ -7,4 +7,11 @@ h1,h2{
 }
 body{
     background-color: #dee5ec;
+
+}
+#hi {
+    background-image: url('https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png');
+background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 95%;
 }

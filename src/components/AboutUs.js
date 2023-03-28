@@ -3,7 +3,7 @@ import "./AboutUs.css"
 import {  Outlet, Link } from 'react-router-dom'
 function AboutUs() {
   return (
-    <><div className='container'>
+    <><div className='container ' id = "hi">
       <h1>MISSION</h1>
       <p>By allowing for the open exchange of information, promoting a thriving market, and catering to all of these participants' requirements through a single application, you may create a comprehensive digital ecosystem for the Indian recycling sector.</p>
       <h1>RECYCLING</h1>

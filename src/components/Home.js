@@ -6,7 +6,7 @@ function Home() {
 
 
   return (
-   <div className="main">
+   <div className="main" id='home'>
     <div className='card text-center border'>
       <h2>Sell Your Recyclables Online With Upcycling Community</h2>
       <img src='https://maycointernational.com/wp-content/uploads/2020/10/commercial-plastic-recycling.jpeg'  width={300} height={300} className='im'/>
