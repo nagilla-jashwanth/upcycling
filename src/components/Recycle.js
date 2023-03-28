@@ -6,8 +6,8 @@ function Recycle() {
 
   let   {register,handleSubmit,formState:{errors}}=useForm()
   return (
+    
     <div className='container'>
-
       <div className='w-50 mx-auto'>
       <form className="mx-auto" onSubmit={handleSubmit()}>
             <div className="mb-3">
